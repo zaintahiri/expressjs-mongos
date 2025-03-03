@@ -1,0 +1,7 @@
+This is expressJS simple crud application with Mongoose and ejs.
+services are created using expressJS backend.
+Mongoose database is used with services.
+EJS is used for fronend.
+
+there are three fields.
+name, username, and email
